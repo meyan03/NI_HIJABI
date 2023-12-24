@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NI HIJABI</title>
+    <style>
+        /* Votre CSS ici */
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>NI HIJABI</h1>
+        <h1>La beauté dans la pudeur</h1>
+    </header>
+
+    <main>
+        <div class="product">
+            <img src="robe1.jpg" alt="Existe en plusieurs couleurs">
+            <h3>Ensemble robe + khimar</h3>
+            <p>Jolie et pudique</p>
+            <p>Prix: $99.99</p>
+            <!-- Ajout du lien autour du bouton -->
+            <a href="https://www.pageDuPanier.com" target="_blank">
+                <button>Ajouter au Panier</button>
+            </a>
+        </div>
+    </main>
+
+
+</body>
+</html>
