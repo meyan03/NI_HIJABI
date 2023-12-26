@@ -16,7 +16,8 @@
     </header>
 
     <main>
-        <iframe src="
+        <!-- Balise iframe avec le contenu HTML depuis GitHub -->
+        <iframe srcdoc='
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,13 +48,9 @@
         </div>
     </main>
 
-
 </body>
-</html> 
-" width="100%" height="800"></iframe>
-
+</html>' width="100%" height="800"></iframe>
     </main>
-
 
 </body>
 </html>
