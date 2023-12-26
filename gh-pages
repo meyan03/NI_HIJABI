@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NI HIJABI</title>
+    <style>
+        /* Votre CSS ici */
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>NI HIJABI</h1>
+        <h1>La beauté dans la pudeur</h1>
+    </header>
+
+    <main>
+        <!-- Balise iframe avec GitHub Pages -->
+        <iframe src="https://meyan03.github.io/NI_HIJABI/" width="100%" height="800"></iframe>
+    </main>
+
+</body>
+</html>
